@@ -1,7 +1,7 @@
 import React from "react";
 
 function MiCompPolitica() {
-    // return a jsx ul list of a menu with five random items
+    // Retornar una noticia politica o del tema asignado, como un parrafo de texto.
     return <div>
        <p> Esta es una noticia Politica</p>
 
